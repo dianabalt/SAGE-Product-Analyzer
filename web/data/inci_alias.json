@@ -1,0 +1,31 @@
+{
+  "_comment": "INCI Alias Dictionary - Maps common names to INCI standard names",
+  "_version": "1.0.0-phase-a",
+  "_last_updated": "2025-01-16",
+
+  "vitamin e": "tocopherol",
+  "vitamin c": "ascorbic acid",
+  "vitamin b3": "niacinamide",
+  "vitamin b5": "panthenol",
+  "vitamin a": "retinol",
+  "vitamin d3": "cholecalciferol",
+  "vitamin k2": "menaquinone",
+
+  "sls": "sodium lauryl sulfate",
+  "sles": "sodium laureth sulfate",
+  "hyaluronic acid": "sodium hyaluronate",
+
+  "coconut oil": "cocos nucifera oil",
+  "jojoba oil": "simmondsia chinensis seed oil",
+  "shea butter": "butyrospermum parkii butter",
+
+  "chamomile": "chamomilla recutita",
+  "lavender": "lavandula angustifolia",
+  "tea tree": "melaleuca alternifolia",
+  "peppermint": "mentha piperita",
+  "aloe vera": "aloe barbadensis",
+
+  "glycerin": "glycerin",
+  "glycerine": "glycerin",
+  "glycerol": "glycerin"
+}

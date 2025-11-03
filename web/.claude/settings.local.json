@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm run build:*)",
+      "Read(//c/SCHOOL/SAGE-WEB-EX/sage-extension/src/popup/components/**)",
+      "Read(//c/SCHOOL/SAGE-WEB-EX/sage-extension/src/popup/**)",
+      "Read(//c/SCHOOL/SAGE-WEB-EX/sage-extension/**)",
+      "Read(//c/SCHOOL/SAGE-WEB-EX/**)",
+      "Bash(cat:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

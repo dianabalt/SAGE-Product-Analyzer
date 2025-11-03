@@ -1,0 +1,40 @@
+@import "tailwindcss";
+
+:root {
+  --background: #BFCFBB;
+  --foreground: #344C3D;
+  --sage-50: #e8f0ed;
+  --sage-100: #BFCFBB;
+  --sage-200: #a8bfa4;
+  --sage-300: #9db099;
+  --sage-400: #8EA58C;
+  --sage-500: #7e9a7c;
+  --sage-600: #738A6E;
+  --sage-700: #5d7158;
+  --sage-800: #344C3D;
+  --sage-900: #283a2f;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-sage-50: var(--sage-50);
+  --color-sage-100: var(--sage-100);
+  --color-sage-200: var(--sage-200);
+  --color-sage-300: var(--sage-300);
+  --color-sage-400: var(--sage-400);
+  --color-sage-500: var(--sage-500);
+  --color-sage-600: var(--sage-600);
+  --color-sage-700: var(--sage-700);
+  --color-sage-800: var(--sage-800);
+  --color-sage-900: var(--sage-900);
+  --color-sage-bg: var(--sage-50);
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+}
